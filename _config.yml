@@ -3,7 +3,7 @@ title: 李建刚的博客
 email: yclijiangang@163.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to my blog!!.
-baseurl: "/IronMan001.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://github.com/IronMan001/IronMan001.github.io.git" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  IronMan001
